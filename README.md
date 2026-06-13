@@ -72,3 +72,5 @@ By working on this project, you will learn:
 
 Created as a teaching project to help students master Power BI dashboard development using engaging Netflix data.
 *Feel free to fork, improve, and share your versions!*
+
+One Episode becomes one season enjoy and work well.
