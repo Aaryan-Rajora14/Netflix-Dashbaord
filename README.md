@@ -74,3 +74,4 @@ Created as a teaching project to help students master Power BI dashboard develop
 *Feel free to fork, improve, and share your versions!*
 
 One Episode becomes one season enjoy and work well.
+New Dashboard is Coming!!
