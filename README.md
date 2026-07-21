@@ -66,7 +66,7 @@ By working on this project, you will learn:
 - Create your own measure using DAX (example: Average Rating by Genre)
 - Customize colors to match your own style
 
----
+------
 
 **Happy Learning!** 🚀
 
