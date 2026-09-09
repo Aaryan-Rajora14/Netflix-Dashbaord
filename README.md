@@ -75,3 +75,5 @@ Created as a teaching project to help students master Power BI dashboard develop
 
 Control Your binge-watching Habits. Your one Episode becomes one season enjoy and work well.
 New Nvidia Dashboard Has Arrived!!
+
+This is Third Dashboard.
