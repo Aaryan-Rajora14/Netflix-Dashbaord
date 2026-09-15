@@ -1,7 +1,5 @@
 # Netflix Dashboard - Power BI Project
 
-third
-
 # FOR LEARNERS
 
 ![WhatsApp Image 2025-10-23 at 09 48 48_09baa652](https://github.com/user-attachments/assets/760ed608-a6a2-4689-9b09-4664a87b0d7a)
